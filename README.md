@@ -1,6 +1,9 @@
-# MyCardwithflask
+# My Card with flask
+![Screenshot (1)](https://user-images.githubusercontent.com/80039790/139695138-a4f4f513-ae80-4caf-8093-1ac78df0ffc4.png)
 
-- This is what you are going to visualize after running it using Flask
 
-https://user-images.githubusercontent.com/80039790/139687303-81c16327-9589-4fe9-85c1-5d0d59f8f831.mp4
+- This is what you are going to visualize after running it in Browser
+
+
+https://user-images.githubusercontent.com/80039790/139694973-350280aa-edf4-42e4-8884-af561a48909f.mp4
 
